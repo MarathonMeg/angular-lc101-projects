@@ -1,0 +1,13 @@
+ul {
+  font-style: italic;
+}
+
+h3 {
+  color: rgb(12, 161, 70);
+}
+.chores {
+  color: rgb(18, 3, 155);
+  font-size: 1.3vw;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}

@@ -1,0 +1,19 @@
+h3 {
+  text-align: center;
+  padding: 1em;
+}
+
+a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 75px;
+  background-color: rgb(170, 173, 218);
+  font-size: 14pt;
+}
+
+img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

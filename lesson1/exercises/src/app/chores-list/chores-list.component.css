@@ -4,6 +4,7 @@ ul {
 
 h3 {
   color: rgb(12, 161, 70);
+  text-decoration: underline;
 }
 .chores {
   color: rgb(18, 3, 155);
